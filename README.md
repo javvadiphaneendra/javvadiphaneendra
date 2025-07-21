@@ -5,21 +5,23 @@
 
 - 🎓 Vishnu Institute of Technology, Bhimavaram (2023 – 2027)
 
-- 💼 Full-stack & IoT Developer | Cloud Enthusiast | Hackathon Finalist
+    💼 Full-stack & IoT Developer | Cloud Enthusiast | Hackathon Finalist
 
-- 🔭 I’m currently working on **Full-stack and IoT mini-projects**
+    🔭 Currently working on Full-stack web apps and IoT mini-projects using modern tech stacks and microcontrollers.
 
-- 🌱 I’m currently learning **DevOps and advanced Cloud services**
+    🌱 Learning DevOps, advanced Cloud services, and strengthening ADSA (Advanced Data Structures and Algorithms).
 
-- 👯 I’m looking to collaborate on **innovative full-stack and IoT projects**
+    👯 Open to collaboration on problem-solving driven Full-stack and IoT projects.
 
-- 🤝 I’m looking for **Intern and FTE roles in Full-stack, IoT, and Cloud development.**
+    🤝 Actively looking for Internships and Full-time roles in Full-stack Development, IoT Systems, Cloud Engineering, and DSA-based software development.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/javvadiphaneendra?tab=repositories)
+    👨‍💻 Check out my GitHub projects: github.com/javvadiphaneendra
 
-- 📫 How to reach me **tradebox72@gmail.com**
+    📫 Reach me at: tradebox72@gmail.com
 
-- ⚡ Fun fact **I can debug code faster after a good night's sleep!**
+    ⚡ Fun fact: I debug code better after a full night’s sleep — rest powers performance!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
