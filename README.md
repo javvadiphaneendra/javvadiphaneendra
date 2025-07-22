@@ -5,7 +5,7 @@
 
 - 🎓 Vishnu Institute of Technology, Bhimavaram (2023 – 2027)
 
-    💼 Full-stack & IoT Developer | Cloud Enthusiast | Hackathon Finalist
+    💼 Full-stack & IoT Developer | Cloud Enthusiast | 
 
     🔭 Currently working on Full-stack web apps and IoT mini-projects using modern tech stacks and microcontrollers.
 
