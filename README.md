@@ -1,25 +1,33 @@
 <h1 align="center">Hi 👋, I'm Javvadi Phaneendra</h1>
-<h3 align="center">B.Tech student in Electronics and Communication Engineering</h3>
+<h3 align="center">B.Tech Student | Full-Stack & IoT Developer | Cloud Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javvadiphaneendra&label=Profile%20views&color=0e75b6&style=flat" alt="javvadiphaneendra" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javvadiphaneendra&label=Profile%20views&color=0e75b6&style=flat" alt="javvadiphaneendra" />
+</p>
 
-- 🎓 Vishnu Institute of Technology, Bhimavaram (2023 – 2027)
+- 🎓 Pursuing B.Tech in Electronics and Communication Engineering at **Vishnu Institute of Technology, Bhimavaram** (2023–2027)
 
-    💼 Full-stack & IoT Developer | Cloud Enthusiast | 
+- 💼 Aspiring **Full-Stack Developer** and **IoT Engineer** with a keen interest in **Cloud Technologies**
 
-    🔭 Currently working on Full-stack web apps and IoT mini-projects using modern tech stacks and microcontrollers.
+- 🔭 Currently building full-stack web applications and IoT-based mini-projects using modern tech stacks and microcontrollers
 
-    🌱 Learning DevOps, advanced Cloud services, and strengthening ADSA (Advanced Data Structures and Algorithms).
+- 🌱 Actively learning **DevOps**, advanced **Cloud services**, and strengthening expertise in **Advanced Data Structures and Algorithms (ADSA)**
 
-    👯 Open to collaboration on problem-solving driven Full-stack and IoT projects.
+- 🤝 Open to collaborating on impactful full-stack or IoT projects with real-world applications
 
-    🤝 Actively looking for Internships and Full-time roles in Full-stack Development, IoT Systems, Cloud Engineering, and DSA-based software development.
+- 💡 Seeking **internships** and **full-time opportunities** in:
+  - Full-Stack Development
+  - IoT Systems Engineering
+  - Cloud Engineering
+  - Software Development with DSA focus
 
-    👨‍💻 Check out my GitHub projects: github.com/javvadiphaneendra
+- 👨‍💻 Explore my work: [github.com/javvadiphaneendra](https://github.com/javvadiphaneendra)
 
-    📫 Reach me at: tradebox72@gmail.com
+- 📫 Connect with me: **tradebox72@gmail.com**
 
-    ⚡ Fun fact: I debug code better after a full night’s sleep — rest powers performance!
+- ⚡ Fun fact: I debug better after a full night’s sleep — rest fuels performance!
+
+
 
 
 
