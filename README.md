@@ -112,4 +112,4 @@ ESP32-based IoT system for prawn pond data collection with real-time dashboards
 
 - 🏅 [Advanced SQL – HackerRank](https://www.hackerrank.com/certificates/5f0f961ec891)
 - 🌐 [Static Website – Nxtwave CCBP](https://certificates.ccbp.in/academy/static-website?id=EVIBQMFHGT)
-- 🧪 [Software Engineer Intern – HackerRank](https://www.hackerrank.com/certificates/sample-intern-cert)
+- 🧪 [Software Engineer Intern – HackerRank](https://www.hackerrank.com/certificates/iframe/8c055758c64a)
