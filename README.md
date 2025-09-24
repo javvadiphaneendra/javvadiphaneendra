@@ -69,25 +69,20 @@
 
 ## 🚀 Projects
 
-### 🔸 [AlgoCrack – DSA Visualizer](#)
-Interactive platform to visualize data structures and algorithm concepts
-> HTML, CSS, JavaScript, D3.js
-> Used by 200+ students in competitive programming clubs
-
 ### 🔸 [Cloud-based Digital Signage System](#)
 Dynamic signage system using Raspberry Pi & Firebase for real-time content updates
 > Python, Firebase, Google Sheets, Raspberry Pi
 > Reduced downtime by 30% for campus and public media boards
 
-### 🔸 [WhatsApp Attendance Bot](#)
+### 🔸 [CampusDesk – College Portal WhatsApp Bot ](#)
 Twilio-based bot to fetch attendance via WhatsApp commands
 > Node.js, Express.js, MongoDB, Railway, Twilio API
 > Helped 100+ students reduce manual queries by 50%
 
-### 🔸 [PondPulse – Smart Pond Monitoring](#)
-ESP32-based IoT system for prawn pond data collection with real-time dashboards
-> ESP32, React, Firebase, IoT Sensors
-> Increased pond monitoring efficiency by 25%
+### 🔸 [QuantumCrypt – BB84 Protocol Demonstrator](#)
+Implemented a BB84-based quantum simulator using IBM
+Quantum, Python, and Qiskit, modeling noise and QBER with 95% accuracy. Validated secure communication under 3 attack
+models, demonstrating practical applications of quantum-safe messaging. 
 
 ---
 
@@ -98,15 +93,6 @@ ESP32-based IoT system for prawn pond data collection with real-time dashboards
 - 🎓 Mentor @ Build Club | Led 15+ workshops on Git, IoT & DSA
 - 🧪 Executed 100+ SQL queries in real-world use cases
 
----
-
-## 📈 GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=javvadiphaneendra&show_icons=true&theme=tokyonight" alt="javvadiphaneendra" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javvadiphaneendra&layout=compact&theme=tokyonight" alt="javvadiphaneendra" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javvadiphaneendra&" alt="javvadiphaneendra" /></p>
-
----
 
 ## 📚 Certifications
 
